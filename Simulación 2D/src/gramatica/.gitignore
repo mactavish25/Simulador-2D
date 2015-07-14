@@ -2,3 +2,7 @@
 /Sim2DLexer.java
 /Sim2DLexer.tokens
 /Sim2DParser.java
+/Sim2DBaseListener.java
+/Sim2DBaseVisitor.java
+/Sim2DListener.java
+/Sim2DVisitor.java
